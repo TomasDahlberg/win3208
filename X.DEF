@@ -1,0 +1,7 @@
+LIBRARY     test                          
+
+DESCRIPTION 'Test dll                    '
+
+EXPORTS
+            WEP                            @1   
+            SCREENDRIVER                   @2   
